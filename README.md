@@ -5,3 +5,8 @@ LLM has the ability to retain contextual information and knowledge over extended
 
 Demo:
 https://drive.google.com/file/d/1J25xHl74Nt6RD0Wh6lOlIsSVpFTTCp4s/view?usp=sharing
+
+Installation:
+1. Download Python3.x
+2. Install libraries
+3. pip install -r ./requirements.txt
